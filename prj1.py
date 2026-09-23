@@ -20,7 +20,7 @@ np.random.seed(42)
 tf.random.set_seed(42)
 
 
-DATASET_DIR = "D:/ANUL 4/sem 2/nnga/prj1/blood-cells-image-dataset"
+DATASET_DIR = "blood-cells-image-dataset"
 IMG_SIZE = (96, 96)
 BATCH_SIZE = 32
 EPOCHS = 20
